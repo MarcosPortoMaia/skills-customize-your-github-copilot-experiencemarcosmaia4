@@ -2,7 +2,7 @@
 
 Este projeto é um site educacional para compartilhar tarefas e exercícios de programação com os alunos. Os alunos podem navegar, visualizar e baixar tarefas diretamente pelo portal.
 
-## Estrutura do Projeto
+## Estrutura do Projeto 
 
 - [`assignments/`](../assignments/) Cada tarefa é armazenada em sua própria subpasta com uma estrutura consistente.
 - [`templates/`](../templates/) Templates reutilizáveis para novo conteúdo
